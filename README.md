@@ -33,3 +33,7 @@ NON LMAO
 - Weather app
 - Clock
 - Mini browser
+
+
+## Request features or critiques
+https://forms.gle/Z5Eedpz9hYHx9yuP9
